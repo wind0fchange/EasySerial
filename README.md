@@ -1,4 +1,4 @@
-# Serial Console Launcher
+# EasySerial
 
 This script automatically detects and launches a console session for the first available USB serial port on macOS systems. It uses the `screen` command to create a terminal session with the specified serial port settings.
 
